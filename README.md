@@ -13,7 +13,7 @@ This project analyzes car sales data using Microsoft Excel. It includes data cle
 - Insights on top-performing models and sales regions
 
 ## 📸 Dashboard Preview
-<a href="https://github.com/Rudhra-07/Car-Sales-Analysis---Dashboard/blob/main/Dashboard%20Img.png">
+"https://github.com/Rudhra-07/Car-Sales-Analysis---Dashboard/blob/main/Dashboard%20Img.png"
 
 ##  Tools Used
 - Microsoft Excel
